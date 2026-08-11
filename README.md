@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Commit test #120
 - Commit test #119
 - Commit test #118
 - Commit test #117
