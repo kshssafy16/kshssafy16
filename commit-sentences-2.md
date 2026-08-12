@@ -672,3 +672,4 @@ Another practice sentence 0671.
 Another practice sentence 0672.
 Another practice sentence 0673.
 Another practice sentence 0674.
+Another practice sentence 0675.
