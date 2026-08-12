@@ -249,3 +249,4 @@ Practice sentence 0248.
 Practice sentence 0249.
 Practice sentence 0250.
 Practice sentence 0251.
+Practice sentence 0252.
