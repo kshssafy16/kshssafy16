@@ -522,3 +522,4 @@ Practice sentence 0521.
 Practice sentence 0522.
 Practice sentence 0523.
 Practice sentence 0524.
+Practice sentence 0525.
