@@ -800,3 +800,4 @@ Practice sentence 0799.
 Practice sentence 0800.
 Practice sentence 0801.
 Practice sentence 0802.
+Practice sentence 0803.
