@@ -801,3 +801,4 @@ Practice sentence 0800.
 Practice sentence 0801.
 Practice sentence 0802.
 Practice sentence 0803.
+Practice sentence 0804.
