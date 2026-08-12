@@ -686,3 +686,4 @@ Practice sentence 0685.
 Practice sentence 0686.
 Practice sentence 0687.
 Practice sentence 0688.
+Practice sentence 0689.
