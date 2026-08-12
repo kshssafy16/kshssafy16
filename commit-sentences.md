@@ -1069,3 +1069,4 @@ Practice sentence 1068.
 Practice sentence 1069.
 Practice sentence 1070.
 Practice sentence 1071.
+Practice sentence 1072.
