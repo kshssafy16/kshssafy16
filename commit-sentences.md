@@ -805,3 +805,4 @@ Practice sentence 0804.
 Practice sentence 0805.
 Practice sentence 0806.
 Practice sentence 0807.
+Practice sentence 0808.
