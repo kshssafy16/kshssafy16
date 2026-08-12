@@ -722,3 +722,4 @@ Practice sentence 0721.
 Practice sentence 0722.
 Practice sentence 0723.
 Practice sentence 0724.
+Practice sentence 0725.
