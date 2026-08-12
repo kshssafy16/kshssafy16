@@ -693,3 +693,4 @@ Practice sentence 0692.
 Practice sentence 0693.
 Practice sentence 0694.
 Practice sentence 0695.
+Practice sentence 0696.
