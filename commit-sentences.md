@@ -1003,3 +1003,4 @@ Practice sentence 1002.
 Practice sentence 1003.
 Practice sentence 1004.
 Practice sentence 1005.
+Practice sentence 1006.
