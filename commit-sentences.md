@@ -680,3 +680,4 @@ Practice sentence 0679.
 Practice sentence 0680.
 Practice sentence 0681.
 Practice sentence 0682.
+Practice sentence 0683.
