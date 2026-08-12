@@ -24,3 +24,4 @@ Practice sentence 0023.
 Practice sentence 0024.
 Practice sentence 0025.
 Practice sentence 0026.
+Practice sentence 0027.
