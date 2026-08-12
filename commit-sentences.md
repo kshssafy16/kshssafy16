@@ -602,3 +602,4 @@ Practice sentence 0601.
 Practice sentence 0602.
 Practice sentence 0603.
 Practice sentence 0604.
+Practice sentence 0605.
