@@ -699,3 +699,4 @@ Practice sentence 0698.
 Practice sentence 0699.
 Practice sentence 0700.
 Practice sentence 0701.
+Practice sentence 0702.
