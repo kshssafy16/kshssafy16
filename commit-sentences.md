@@ -615,3 +615,4 @@ Practice sentence 0614.
 Practice sentence 0615.
 Practice sentence 0616.
 Practice sentence 0617.
+Practice sentence 0618.
