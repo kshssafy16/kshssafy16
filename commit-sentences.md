@@ -79,3 +79,4 @@ Practice sentence 0078.
 Practice sentence 0079.
 Practice sentence 0080.
 Practice sentence 0081.
+Practice sentence 0082.
