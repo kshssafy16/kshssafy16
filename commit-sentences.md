@@ -342,3 +342,4 @@ Practice sentence 0341.
 Practice sentence 0342.
 Practice sentence 0343.
 Practice sentence 0344.
+Practice sentence 0345.
