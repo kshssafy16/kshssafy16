@@ -766,3 +766,4 @@ Practice sentence 0765.
 Practice sentence 0766.
 Practice sentence 0767.
 Practice sentence 0768.
+Practice sentence 0769.
