@@ -636,3 +636,4 @@ Practice sentence 0635.
 Practice sentence 0636.
 Practice sentence 0637.
 Practice sentence 0638.
+Practice sentence 0639.
