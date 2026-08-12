@@ -70,3 +70,4 @@ Practice sentence 0069.
 Practice sentence 0070.
 Practice sentence 0071.
 Practice sentence 0072.
+Practice sentence 0073.
