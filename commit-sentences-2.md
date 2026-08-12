@@ -69,3 +69,4 @@ Another practice sentence 0068.
 Another practice sentence 0069.
 Another practice sentence 0070.
 Another practice sentence 0071.
+Another practice sentence 0072.
