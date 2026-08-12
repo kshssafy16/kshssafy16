@@ -49,3 +49,4 @@ Practice sentence 0048.
 Practice sentence 0049.
 Practice sentence 0050.
 Practice sentence 0051.
+Practice sentence 0052.
