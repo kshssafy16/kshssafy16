@@ -68,3 +68,4 @@ Practice sentence 0067.
 Practice sentence 0068.
 Practice sentence 0069.
 Practice sentence 0070.
+Practice sentence 0071.
