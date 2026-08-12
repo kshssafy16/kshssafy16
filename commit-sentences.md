@@ -569,3 +569,4 @@ Practice sentence 0568.
 Practice sentence 0569.
 Practice sentence 0570.
 Practice sentence 0571.
+Practice sentence 0572.
