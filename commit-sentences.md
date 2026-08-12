@@ -784,3 +784,4 @@ Practice sentence 0783.
 Practice sentence 0784.
 Practice sentence 0785.
 Practice sentence 0786.
+Practice sentence 0787.
