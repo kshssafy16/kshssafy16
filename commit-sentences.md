@@ -92,3 +92,4 @@ Practice sentence 0091.
 Practice sentence 0092.
 Practice sentence 0093.
 Practice sentence 0094.
+Practice sentence 0095.
