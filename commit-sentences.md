@@ -290,3 +290,4 @@ Practice sentence 0289.
 Practice sentence 0290.
 Practice sentence 0291.
 Practice sentence 0292.
+Practice sentence 0293.
