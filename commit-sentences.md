@@ -244,3 +244,4 @@ Practice sentence 0243.
 Practice sentence 0244.
 Practice sentence 0245.
 Practice sentence 0246.
+Practice sentence 0247.
