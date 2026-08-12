@@ -822,3 +822,4 @@ Practice sentence 0821.
 Practice sentence 0822.
 Practice sentence 0823.
 Practice sentence 0824.
+Practice sentence 0825.
