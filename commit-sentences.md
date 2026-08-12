@@ -715,3 +715,4 @@ Practice sentence 0714.
 Practice sentence 0715.
 Practice sentence 0716.
 Practice sentence 0717.
+Practice sentence 0718.
