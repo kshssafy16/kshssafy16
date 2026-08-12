@@ -605,3 +605,4 @@ Practice sentence 0604.
 Practice sentence 0605.
 Practice sentence 0606.
 Practice sentence 0607.
+Practice sentence 0608.
