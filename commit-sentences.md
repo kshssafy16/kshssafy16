@@ -869,3 +869,4 @@ Practice sentence 0868.
 Practice sentence 0869.
 Practice sentence 0870.
 Practice sentence 0871.
+Practice sentence 0872.
