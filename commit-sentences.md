@@ -797,3 +797,4 @@ Practice sentence 0796.
 Practice sentence 0797.
 Practice sentence 0798.
 Practice sentence 0799.
+Practice sentence 0800.
