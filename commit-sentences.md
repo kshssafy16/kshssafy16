@@ -700,3 +700,4 @@ Practice sentence 0699.
 Practice sentence 0700.
 Practice sentence 0701.
 Practice sentence 0702.
+Practice sentence 0703.
