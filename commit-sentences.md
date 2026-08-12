@@ -644,3 +644,4 @@ Practice sentence 0643.
 Practice sentence 0644.
 Practice sentence 0645.
 Practice sentence 0646.
+Practice sentence 0647.
