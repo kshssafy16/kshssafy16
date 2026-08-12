@@ -622,3 +622,4 @@ Practice sentence 0621.
 Practice sentence 0622.
 Practice sentence 0623.
 Practice sentence 0624.
+Practice sentence 0625.
