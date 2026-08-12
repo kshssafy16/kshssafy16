@@ -924,3 +924,4 @@ Practice sentence 0923.
 Practice sentence 0924.
 Practice sentence 0925.
 Practice sentence 0926.
+Practice sentence 0927.
