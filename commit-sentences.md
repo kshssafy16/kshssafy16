@@ -619,3 +619,4 @@ Practice sentence 0618.
 Practice sentence 0619.
 Practice sentence 0620.
 Practice sentence 0621.
+Practice sentence 0622.
