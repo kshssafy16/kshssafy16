@@ -674,3 +674,4 @@ Practice sentence 0673.
 Practice sentence 0674.
 Practice sentence 0675.
 Practice sentence 0676.
+Practice sentence 0677.
