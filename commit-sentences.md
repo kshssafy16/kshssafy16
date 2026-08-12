@@ -503,3 +503,4 @@ Practice sentence 0502.
 Practice sentence 0503.
 Practice sentence 0504.
 Practice sentence 0505.
+Practice sentence 0506.
